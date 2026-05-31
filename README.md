@@ -17,7 +17,6 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Titles data
 
 - Movies vs TV Shows
 - Top 10 Countries
-- Content Added Over Years
 - Ratings Distribution
 - Top Genres
 - Movie Duration Analysis
@@ -38,9 +37,6 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Titles data
 
 ### Top Countries
 ![Top Countries](images/top10countries.png)
-
-### Content Added Over Years
-![Content Added](images/content_over_years.png)
 
 ### Ratings Distribution
 ![Ratings](images/ratings_distribution.png)
