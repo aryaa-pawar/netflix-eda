@@ -25,7 +25,6 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Titles data
 
 - Movies significantly outnumber TV Shows.
 - The United States contributes the largest amount of content.
-- Content additions peaked between 2016 and 2020.
 - TV-MA and TV-14 are the most common ratings.
 - International Movies and Dramas dominate the catalog.
 - Most movies are between 80 and 120 minutes long.
